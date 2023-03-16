@@ -1,1 +1,1 @@
-# A powerful unit converter built using HTML, CSS and javascript that is capapble of converting values from meters to feet, litres to gallons, and kilograms to pounds and from each respective ends as well. By default, each card displays the unit for converting 1 (one) unit of each metric.
+# A powerful unit converter built using HTML, CSS and javascript that is capable of converting values from meters to feet, litres to gallons, and kilograms to pounds and from each respective ends as well. By default, each card displays the unit for converting 1 (one) unit of each metric.
